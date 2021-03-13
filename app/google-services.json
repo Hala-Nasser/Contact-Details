@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91700570296",
+    "project_id": "cloud-computing-adcca",
+    "storage_bucket": "cloud-computing-adcca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91700570296:android:41ad28e27b37960e622c4d",
+        "android_client_info": {
+          "package_name": "com.example.contactdetails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91700570296-0nliblt8b6ttfa5fomto23qv7jovrr8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm3s8wyxeHOe-pRYgt-PbXcaLwO_2YXVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91700570296-0nliblt8b6ttfa5fomto23qv7jovrr8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
